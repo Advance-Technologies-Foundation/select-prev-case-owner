@@ -1,0 +1,11 @@
+﻿{
+  "Descriptor": {
+    "UId": "e649e6cc-2ec4-4685-b355-9d4058f5d3f1",
+    "Name": "CasePageSelectCaseOwnerCss",
+    "ModifiedOnUtc": "\/Date(1559667563000)\/",
+    "DenyExtending": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "CasePageSelectCaseOwnerCss",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "e0b5c14e-ade0-457f-a930-2f9600403671",
+    "PackageVersion": "7.8.0",
+    "Name": "ATF.SelectPrevCaseOwner",
+    "ModifiedOnUtc": "\/Date(1559665050000)\/",
+    "Maintainer": "Terrasoft",
+    "DependsOn": [
+      {
+        "UId": "6c904dc5-03d7-409a-aa98-dfa2ec97aa02",
+        "PackageVersion": "7.8.0",
+        "Name": "SLMITILService"
+      }
+    ]
+  }
+}

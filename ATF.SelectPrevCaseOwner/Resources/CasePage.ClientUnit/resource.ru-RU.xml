@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.EmailTitleCaption.Caption" Value="Ответ по обращению" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Value" Value="Ответ по обращению {0} {1}" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Details" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Caption" Value="Hide system messages" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Value" Value="Скрыть системные сообщения" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Caption" Value="History" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Value" Value="История" />
+			<Item Name="LocalizableStrings.NeedToSetAssigneeText.Value" Value="Укажите ответственного по обращению для выбранной линии поддержки" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Caption" Value="Case profile" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Value" Value="Case profile" />
+			<Item Name="LocalizableStrings.PreviousAssigneeText.Value" Value="Подставлен предыдущий ответственный по обращению на выбранной линии поддержки" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Caption" Value="Processing" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Value" Value="Обработка" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Caption" Value="ServiceItemTipMessage" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Value" Value="&lt;p&gt;По сервису определяется категория обращения и могут устанавливаться плановые сроки реакции и разрешения. Вы можете настроить сервис в разделе &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServiceItemSection/&quot;&gt;&quot;Сервис&quot;&lt;/a&gt;  &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.SetCaseContactMessage.Value" Value="Указать {0} в качестве контакта в обращении?" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Caption" Value="Show system messages" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Value" Value="Показать системные сообщения" />
+		</Items>
+	</Group>
+</Resources>
